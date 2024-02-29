@@ -3,6 +3,9 @@
     "configMode": "LOCAL",
     "configExternalURL": "",
     "projectToken": "",
+    "skipScanningStage": {
+      "preStep": ["maven"]
+    },
     "baseBranches": []
   },
   "scanSettingsSAST": {
